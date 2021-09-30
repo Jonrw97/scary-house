@@ -11,7 +11,7 @@ What will you do? """)
 
 
     entry = input("\n> ")
-
+ 
     if entry == "enter door" or entry == "door" or entry == "open door":
         print("You open the door and walk inside.")
         print("You are greeted by a butler.")
