@@ -1,4 +1,4 @@
-#Scary House V1
+Scary House V1
 
 This is a linear text game.
 It is very basic and probably very inefficent aswell.
