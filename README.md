@@ -1,3 +1,6 @@
+To run this application you must have python 3.6 or later installed on your computer.
+
+
 Scary House V1
 
 This is a linear text game.
